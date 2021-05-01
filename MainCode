@@ -6,6 +6,16 @@
 	
 	Features:
 	Auto Update,
+	
+	Use this code down bellow if you want more fist while grinding (EXECUTE THIS ON A BLANK TAB)
+	
+	while wait() do
+	local Character = game.Players.LocalPlayer.Character
+	if Character:FindFirstChild("Fist Training") then
+		Character:FindFirstChild("Fist Training"):Activate()
+	end
+end
 ]]
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Temmpp/SimpleSPTSCycleGrinder/main/UpdaterCode'),true))()
+
 
