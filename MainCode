@@ -1,12 +1,11 @@
 --[[
-    Features:
-    Auto Updater,
-    
-    
-    Requires:
-    50Trillion BT(Body Toughness)
-    100Billion FS(Fist Strength)
-    10Trillion PP(Psychic Power)
-    Till new update.
+	Version 1.1
+	
+	What's new:
+	Better Choose Frame
+	
+	Features:
+	Auto Update,
 ]]
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Temmpp/SimpleSPTSCycleGrinder/main/UpdaterCode'),true))()
+
