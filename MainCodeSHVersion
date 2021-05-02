@@ -1,0 +1,8 @@
+--[[
+  Made by jam(AKA temp)
+  Simple SPTS Cycle Grinder Simple Version
+  
+  Features:
+  Auto Update
+]]
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Temmpp/SimpleSPTSCycleGrinder/main/UpdaterCodeSHVersion'),true))()
